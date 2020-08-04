@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int Marks=0
+int Marks=0;
 printf("Enter Your Marks:");
 scanf("%d",& Marks);
 if(Marks<40)
